@@ -138,6 +138,25 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Bobby Bones",
+      "species": "gorilla",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Skulls",
+      "species": "Hyena",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
     }
   ]
 }
